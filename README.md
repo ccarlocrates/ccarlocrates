@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Carlos 👋
 
-<!--
-**ccarlocrates/ccarlocrates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Software enfocado en el desarrollo móvil (Android nativo), soluciones backend y gestión de bases de datos. Me apasiona escribir código limpio, eficiente y bien estructurado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** Kotlin, Java, C#, SQL, TypeScript
+- **Desarrollo Móvil & Desktop:** Android SDK, WPF, XAML
+- **Bases de Datos & Backend:** SQLite, Supabase, MySQL, PostgreSQL, Entity Framework Core
+- **Control de Versiones & IDEs:** Git, GitHub, Android Studio, Visual Studio
+
+---
+
+### 🚀 Proyectos Destacados
+
+- **BurGol:** Aplicación móvil Android para la organización y gestión de partidos de fútbol amateur local, implementando persistencia híbrida (SQLite para modo offline y Supabase para sincronización en la nube).
+
+---
+
+📫 **Contacto:**
+- **LinkedIn:** [Carlos Martín Otero](https://www.linkedin.com/in/tu-usuario-linkedin)
+- **Email:** tuemail@ejemplo.com
