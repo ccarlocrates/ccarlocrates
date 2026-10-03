@@ -2,8 +2,8 @@
 
 ### Desarrollador Multiplataforma enfocado en Bases de Datos, Backend y Android
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--martin--otero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin)
-[![Email](https://img.shields.io/badge/Email-tuemail%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos martin otero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin)
+[![Email](https://img.shields.io/badge/Email-carlosoterof5%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 ---
 
