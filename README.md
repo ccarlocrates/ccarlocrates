@@ -41,4 +41,4 @@
 
 ---
 
-<p center>✨ <i>¡Gracias por visitar mi perfil! Sigo subiendo proyectos nuevos según voy avanzando.</i> ✨</p>
+<p center>✨ <i>¡Gracias por visitar mi perfil! Seguiré subiendo proyectos según voy avanzando!.</i> ✨</p>
